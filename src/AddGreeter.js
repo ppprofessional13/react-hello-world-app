@@ -24,7 +24,7 @@ class AddGreeter extends Component {
                     value={this.state.greetingName}
                 />
                 &nbsp;&nbsp;
-                <button onClick={this.addGreeting}>Add</button>
+                <button onClick={this.addGreeting}>Add--------------------></button>
             </div>
         );
     }
